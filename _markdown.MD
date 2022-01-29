@@ -36,7 +36,7 @@
 - Need to have list with the - and then [ ] or [x]
 
 - [ ] Eat breakfast
-- [ ] Go swim
+- [x] Go swim
 - [x] Watch a movie
 
 ## Hyperlinks
