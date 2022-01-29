@@ -8,7 +8,7 @@
   - [Hyperlinks](#hyperlinks)
   - [Command Pallete](#command-pallete)
   - [Keyboard shortcuts](#keyboard-shortcuts)
-  - [Math (Github)](#math-github)
+  - [Math](#math)
 
 ## Headings
 
@@ -63,7 +63,7 @@
 | Ctrl/Cmd + Shift + V | Toggle preview               |
 | Ctrl/Cmd + K V       | Toggle preview to side       |
 
-## Math (Github)
+## Math
 
 - In-line delimitter use \$\` in front, \`\$ back
 - $y = 3*x + 12$
