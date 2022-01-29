@@ -1,5 +1,17 @@
 # Markdown Cheatsheet
 
+[Markdown Cheatsheet](#markdown-cheatsheet)
+
+- [Markdown Cheatsheet](#markdown-cheatsheet)
+  - [Headings](#headings)
+  - [Lists, indents](#lists-indents)
+  - [Tables](#tables)
+  - [Task lists](#task-lists)
+  - [Hyperlinks](#hyperlinks)
+  - [Command Pallete](#command-pallete)
+  - [Keyboard shortcuts](#keyboard-shortcuts)
+  - [Math (Github)](#math-github)
+
 ## Headings
 
 - #, ##, ###, ####
@@ -29,7 +41,7 @@
 
 ## Hyperlinks
 
-- \[this link](#1.1-Next-Item)
+- \[this link](#1.1-next-item) \\lower case!!
 - The # is a single # and has nothing to do with the heading #,##,###,####
 - On the receiving side, it needs to be any kind of a heading
 - If you want to receive to a bulleted item, the place a #### inside the -
