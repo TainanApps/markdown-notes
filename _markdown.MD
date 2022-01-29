@@ -35,7 +35,7 @@
 
 - Need to have list with the - and then [ ] or [x]
 
-- [ ] Eat breakfast
+- [x] Eat breakfast
 - [x] Go swim
 - [x] Watch a movie
 
