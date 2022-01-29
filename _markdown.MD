@@ -1,12 +1,10 @@
 # Markdown Cheatsheet
 
-[Markdown Cheatsheet](#markdown-cheatsheet)
-
 - [Markdown Cheatsheet](#markdown-cheatsheet)
   - [Headings](#headings)
   - [Lists, indents](#lists-indents)
   - [Tables](#tables)
-  - [Task lists](#task-lists)
+  - [Task lists, use - and then [ ] or [x]](#task-lists-use---and-then---or-x)
   - [Hyperlinks](#hyperlinks)
   - [Command Pallete](#command-pallete)
   - [Keyboard shortcuts](#keyboard-shortcuts)
@@ -31,9 +29,7 @@
 - Right Alignment ---:
 - Pipes on either side
 
-## Task lists
-
-- Need to have list with the - and then [ ] or [x]
+## Task lists, use - and then [ ] or [x]
 
 - [ ] Eat breakfast
 - [ ] Go swim
