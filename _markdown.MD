@@ -37,7 +37,7 @@
 
 - [ ] Eat breakfast
 - [ ] Go swim
-- [x] Watch a movie
+- [ ] Watch a movie
 
 ## Hyperlinks
 
