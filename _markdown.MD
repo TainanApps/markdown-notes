@@ -31,9 +31,9 @@
 
 ## Task lists, use - and then [ ] or [x]
 
-- [ ] Eat breakfast
-- [ ] Go swim
-- [x] Watch a movie
+- [x] Eat breakfast
+- [x] Go swim
+- [ ] Watch a movie
 
 ## Hyperlinks
 
