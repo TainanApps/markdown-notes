@@ -70,3 +70,7 @@
 - $`y = 3*x + 12`$
 - Block delimitter use $ in front / back
 - Or block delimitters \```math \```
+
+```math
+y = 3 * x + 12
+```
