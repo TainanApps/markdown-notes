@@ -67,5 +67,6 @@
 
 - In-line delimitter use \$\` in front, \`\$ back
 - $y = 3*x + 12$
+- $`y = 3*x + 12`$
 - Block delimitter use $ in front / back
 - Or block delimitters \```math \```
